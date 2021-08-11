@@ -1,1 +1,4 @@
-# Flight_Fare
+# Flight_Price_Prediction
+
+Deploy by using heruko
+
